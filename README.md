@@ -1,4 +1,4 @@
-# 2018-2019 Design Principles
+# 2018-2019 Design Patterns
 # Project 1
 ### Project Definition
 Solve a software development problem using one (or possibly more) of the design patterns that we cover in class. **Your problem should be different from your previous projects.** 
