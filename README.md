@@ -1,5 +1,5 @@
 # 2018-2019 Design Patterns
-# Project 2
+# Project 3
 ### Project Definition
 Solve a software development problem using one (or possibly more) of the design patterns that we cover in class. **Your problem should be different from your previous projects.** 
 ###  To-Do
@@ -16,7 +16,7 @@ You are allowed to change pom.xml to add or remove any dependency or plugin.
 Submit (1) Statement of Work, (2) Explanation on Utilized Design Patterns, (3) UML Class Diagram, and (4) Research. These written materials should be in a single **_.pdf_** file. Submit the .pdf file and (5) Implementation codes (without the target folder and IDE-specific files) to your github classroom repository
 
 ### Important Dates
-**Deadline:**  April 23, 2019.
+**Deadline:**  May 10, 2019.
 
 ### Notes
 Please read this document very carefully. 
