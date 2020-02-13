@@ -1,4 +1,4 @@
-# 2018-2019 Design Patterns
+# 2019-2020 Design Patterns
 # Project 1-2-3
 ### Project Definition
 Solve a software development problem using one (or possibly more) of the design patterns that we cover in class. **Your problem should be different from your previous projects.** 
