@@ -1,4 +1,4 @@
-# 2019-2020 Design Patterns
+# 2020-2021 Design Patterns
 # Project 1-2-3
 ### Project Definition
 Solve a software development problem using one (or possibly more) of the design patterns that we cover in class. **Your problem should be different from your previous projects.** 
@@ -11,16 +11,17 @@ Solve a software development problem using one (or possibly more) of the design 
 Your project should not expect any input from user, and it should produce decent outputs when compiled by the following command:  `java -jar target\project.jar`
 You are allowed to change pom.xml to add or remove any dependency or plugin.
 - You need to upload the **.pdf** file and necessary parts of your code. (Do not upload target folder and IDE-specific files)
+- Please use the latest version of Java
 
 ###  To-Submit
 Submit (1) Statement of Work, (2) Explanation on Utilized Design Patterns, (3) UML Class Diagram, and (4) Research. These written materials should be in a single **_.pdf_** file. Submit the .pdf file and (5) Implementation codes (**without the target folder and IDE-specific files**) to your github classroom repository
 
 ### Important Dates
-**Deadline for Project 1:**  March 08, 2020
+**Deadline for Project 1:**  April 11, 2021
 
-**Deadline for Project 2:**  April 12, 2020
+**Deadline for Project 2:**  May 9, 2021
 
-**Deadline for Project 3:**  May 10, 2020.
+**Deadline for Project 3:**  June 6, 2021.
 
 ### Notes
 Please read this document very carefully. 
