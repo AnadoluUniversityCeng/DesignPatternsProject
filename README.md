@@ -4,7 +4,7 @@
 Solve a software development problem using one (or possibly more) of the design patterns that we cover in class. **Your problem should be different from your previous projects.** 
 ###  To-Do
 - **Statement of Work**: Write your problem definition in detail using 100-200 words.
-- **Design Pattern(s)**: Select design pattern(s) that are useful in solving the problem you defined. Explain why and how you employ such design pattern(s) in your Project.
+- **Design Patterns**: Select **at least two design patterns** that are useful in solving the problem you defined. Explain why and how you employ such design pattern(s) in your Project.
  - **UML**: Draw a detailed class diagram of your proposed solution using some UML Diagram Drawing Tool.
  - **Research**: Find an implementation of a design pattern from a well known open source project. Explain the usage of the pattern in the project in detail. 
 - **Implementation**:  Implement your proposed solution based on the UML Class Diagram using the base Maven Project that you are supplied. The Maven Project produces a executable **.jar** file typing following command: `mvn clean package`. To learn more about Maven Project, you can read maven in 5 minutes. (https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
