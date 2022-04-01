@@ -1,7 +1,7 @@
 # 2021-2022 Design Patterns
 # Project 1-2-3
 ### Project Definition
-Solve a software development problem using one (or possibly more) of the design patterns that we cover in class. **Your problem should be different from your previous projects.** 
+Solve a software development problem using **at least two design patterns** that we cover in class. **Your problem should be different from your previous projects.** 
 You can do your project in groups of two. Specify your **group members** and **GitHub usernames** on the first page of the pdf file.
 ###  To-Do
 - **Statement of Work**: Write your problem definition in detail using 100-200 words.
